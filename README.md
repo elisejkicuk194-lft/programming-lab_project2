@@ -1,2 +1,1 @@
-# programming-lab_project2
-Лабораторная работа №2 по дисциплине "Программирование
+# programming-lab_projects
